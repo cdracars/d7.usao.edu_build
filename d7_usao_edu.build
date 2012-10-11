@@ -1,0 +1,13 @@
+ core = 7.x
+
+ api = 2
+
+ projects[drupal][version] = "7.14"
+
+ projects[d7_usao_edu][type] = "profile"
+
+ projects[d7_usao_edu][download][type] = "git"
+
+ projects[d7_usao_edu][download][url] = "git@bitbucket.org/cdracars/d7.usao.edu.git"
+
+ projects[d7_usao_edu][download][branch] = "master"
